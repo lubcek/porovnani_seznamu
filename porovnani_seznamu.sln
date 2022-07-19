@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "porovnani_seznamu", "porovnani_seznamu.pyproj", "{0C4C2548-470C-42D5-9AB9-7DB5410398AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4C2548-470C-42D5-9AB9-7DB5410398AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4C2548-470C-42D5-9AB9-7DB5410398AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C71FB8-8F29-4307-A7BA-7E61D27A23E8}
+	EndGlobalSection
+EndGlobal
